@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: Font;
   src: url("./JetBrains.ttf");
@@ -12,7 +13,7 @@ html {
 
 body {
   display: flex;
-  color: #F5C2E7;
+  color: #6272a4;
   background: #1E1E2E;
   margin-right: 9em;
   padding: 1em;
